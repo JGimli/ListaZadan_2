@@ -2,9 +2,6 @@
 
 `Lista Zadan` is a cross-platform task-manager application built with .NET MAUI. It provides a login and registration flow, stores users and tasks in a local SQLite database, and allows tasks to be added, edited, completed, and deleted.
 
-<p align="center">
-  <img src="ListaZadan_2/Resources/Images/dotnet_bot.png" alt=".NET MAUI robot" width="300">
-</p>
 
 ## Features
 
