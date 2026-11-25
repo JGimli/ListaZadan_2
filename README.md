@@ -151,4 +151,3 @@ dotnet run --project ListaZadan_2/ListaZadan_2.csproj -f net8.0-windows10.0.1904
 - Authentication currently stores and compares passwords directly in the database; passwords are not hashed.
 - The login flow and task list are not yet fully isolated by logged-in user.
 - The login and task operations contain limited error handling.
-- The project does not include automated tests.
